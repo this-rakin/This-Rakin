@@ -25,7 +25,6 @@
 
 [<img align="left" alt="rakinwin | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="rakinwin | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
 <br />
 
 ---
